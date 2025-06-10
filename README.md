@@ -1,4 +1,4 @@
-# Vulnerable Smart Contract Verification Lab
+# Vulnerable Smart Contract Verification
 
 A smart contract security analysis focused on detecting and demonstrating common vulnerabilities in Solidity-based Ethereum contracts. This lab simulates real-world DeFi exploit scenarios and insecure Web3 development practices using static and dynamic analysis tools such as Slither, Mythril, and Remix IDE.
 
