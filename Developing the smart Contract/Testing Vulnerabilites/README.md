@@ -29,4 +29,4 @@ Testing:
 ![image](https://github.com/user-attachments/assets/cdb88ca7-a6fc-48b5-a2ec-f54d004f86bc)
 ![image](https://github.com/user-attachments/assets/2ec677f6-cb14-44e6-9802-5e89a6b65886)
 
-More detailed report [here](https://github.com/SMUGLER79/Cerify-Audit-Verification-Workflow/tree/main/Task2%3A%20Auditing%20Contract).
+More detailed report [here](https://github.com/SMUGLER79/Vulnerable-Smart-Contract-Verification-/blob/main/Auditing%20the%20Contract/Smart%20Contract%20Security%20Audit%20Report.pdf).
