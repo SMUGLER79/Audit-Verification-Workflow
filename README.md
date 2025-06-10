@@ -1,6 +1,6 @@
 # Vulnerable Smart Contract Verification Lab
 
-A smart contract security analysis lab focused on detecting and demonstrating common vulnerabilities in Solidity-based Ethereum contracts. This lab simulates real-world DeFi exploit scenarios and insecure Web3 development practices using static and dynamic analysis tools such as Slither, Mythril, and Remix IDE.
+A smart contract security analysis focused on detecting and demonstrating common vulnerabilities in Solidity-based Ethereum contracts. This lab simulates real-world DeFi exploit scenarios and insecure Web3 development practices using static and dynamic analysis tools such as Slither, Mythril, and Remix IDE.
 
 This project offers a step-by-step setup and demonstration of vulnerable smart contract development, vulnerability discovery, and automated analysis techniques. It is designed for cybersecurity researchers, blockchain developers, and smart contract auditors seeking practical exposure to Ethereum security pitfalls, audit tools, and best practices.
 
@@ -40,15 +40,5 @@ A Solidity-based registry allowing issuers to issue and revoke course certificat
 - Reentrancy potential in revoke logic
 - Improper use of `tx.origin`
 - Unchecked return values
-
----
-
-## Ideal For
-
-- Blockchain Security Researchers
-- Smart Contract Auditors
-- Bug Bounty Hunters
-- Web3 Developers and Students
-- CTF and Hackathon Participants
 
 ---
